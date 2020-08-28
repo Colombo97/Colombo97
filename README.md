@@ -10,7 +10,7 @@
 <p>👨‍💻Android Developer</p>
 <p>🎓 Graduation: Systems Analysis and Development</p>
 <p>💻 Programming: Android, Flutter and Node JS</p>
-<p>💾 Databases: MySQL /p>
+<p>💾 Databases: MySQL </p>
 <p>📚 I’m currently learning: ReactJS, Flutter</p>
 </div>
 
