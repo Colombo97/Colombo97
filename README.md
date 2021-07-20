@@ -32,10 +32,10 @@
 
   <!-- ### Languages and Tools: -->
   <span title="Android">
-  <img alt="Android" width="40px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/android.svg"/>
+  <img alt="Android" width="40px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/android.svg"/>
   </span>
   <span title="Php">
-  <img alt="Php" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/php.svg"/>
+  <img alt="Php" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/php.svg"/>
   </span>
 
   <span title="Java">
@@ -43,37 +43,37 @@
   </span>
 
   <span title="NodeJS">
-  <img alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/nodejs.svg"/>
+  <img alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/nodejs.svg"/>
   </span>
   <span title="React">
-  <img alt="React" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/react.svg"/>
+  <img alt="React" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/react.svg"/>
   </span>
   
   <span title="Typescript">
-  <img alt="Typescript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/typescript.svg"/>
+  <img alt="Typescript" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/typescript.svg"/>
   </span>
 
   <span title="Javascript">
-  <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/javascript.svg"/>
+  <img alt="Javascript" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/javascript.svg"/>
   </span>
   <span title="HTML">
-  <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/html.svg"/>
+  <img alt="HTML" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/html.svg"/>
   </span>
   <span title="CSS">
-  <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/css.svg"/>
+  <img alt="CSS" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/css.svg"/>
   </span>
   <span title="Netbeans">
-  <img alt="Netbeans" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/netbeans.svg"/>
+  <img alt="Netbeans" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/netbeans.svg"/>
   </span>
   <span title="Git">
-  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/git.svg"/>
+  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/git.svg"/>
   </span>
   <span title="MySQL">
   <img  src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45px" height="45px"/>
   </span>
 
   <span title="Vs Code">
-  <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/SilvaTs/SilvaTs/master/icons/vs-code.svg"/>
+  <img alt="Vs Code" width="35px" src="https://raw.githubusercontent.com/Colombo97/Colombo97/master/icons/vs-code.svg"/>
   </span>
 
   <br />
