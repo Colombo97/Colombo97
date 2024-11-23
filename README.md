@@ -7,11 +7,10 @@
 ## About me
 
 <div>
-<p>👨‍💻Android Developer</p>
+<p>👨‍💻Frontend Developer</p>
 <p>🎓 Graduation: Systems Analysis and Development</p>
-<p>💻 Programming: Android, Flutter and Node JS</p>
-<p>💾 Databases: MySQL </p>
-<p>📚 I’m currently learning: ReactJS, Flutter</p>
+<p>💻 Programming: Angular and NestJS</p>
+<p>💾 Databases: MySQL and Postgres </p>
 </div>
 
 <p align="center"> 
@@ -28,4 +27,4 @@
 
 
 📌 Languages and Tools:
-Android, PHP, Java, NodeJS, React, Typescript, Javascript, HTML, CSS, Netbeans, Git, MySQL, VS Code
+Angular, Android, Java, NodeJS, NestJS, Typescript, Javascript, Typescript, HTML, CSS, Git, MySQL and Postgres
